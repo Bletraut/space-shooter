@@ -1,2 +1,2 @@
 # space-shooter
-Test game for job
+A small space shooter game. And code examples.
